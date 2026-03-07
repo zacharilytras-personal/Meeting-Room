@@ -15,10 +15,11 @@ jobs:
 
       - name: Write JSON
         run: |
-          echo '${{ github.event.client_payload.content }}' > room-status.json
+          echo '${{ toJson(github.event.client_payload) }}' > room-status.json
 
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update room status"
           file_pattern: room-status.json
+``
