@@ -12,21 +12,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Write JSON (force diff)
+      - name: Write room-status.json
         run: |
           echo '${{ toJson(github.event.client_payload) }}' > room-status.json
 
-      - name: Show written file (debug)
+      - name: Verify file contents
         run: |
-          echo "===== room-status-v2.json ====="
-          cat room-status-v2.json
-          echo "================================"
+          echo "===== room-status.json ====="
+          cat room-status.json
+          echo "============================"
 
-      - name: Commit JSON
+      - name: Commit updated JSON
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update room status (parent flow)"
+          commit_message: "Update room status"
           file_pattern: room-status.json
