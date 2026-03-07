@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-03-07T03:46:29.2763541Z",
+  "rooms": {
+    "accounts": {
+      "current_name": "accounts@conserveitiot.com",
+      "date": "Today is Saturday 07 March 2026",
+      "next_name": "Nothing further today (for now)",
+      "next_time": "",
+      "status": "BOOKED",
+      "until": "3:00 PM"
+    },
+    "zach": {
+      "current_name": "ehusnu@daikin.com.au",
+      "date": "Today is Saturday 07 March 2026",
+      "next_name": "Nothing further today (for now)",
+      "next_time": "",
+      "status": "BOOKED",
+      "until": "tomorrow"
+    }
+  }
+}
