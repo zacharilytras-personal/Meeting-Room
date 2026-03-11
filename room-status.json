@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-10T23:45:01.0009295Z",
+  "generated_at": "2026-03-11T00:00:09.7414390Z",
   "rooms": {
     "accounts": {
-      "current_name": "Nobody",
-      "date": "Today is Tuesday 10 March 2026",
-      "next_name": "Free until tomorrow",
+      "current_name": "accounts@conserveitiot.com",
+      "date": "Today is Wednesday 11 March 2026",
+      "next_name": "Nothing further today (for now)",
       "next_time": "",
-      "status": "FREE",
+      "status": "BOOKED",
       "until": "tomorrow"
     },
     "zach": {
       "current_name": "Zachari Lytras",
-      "date": "Today is Tuesday 10 March 2026",
+      "date": "Today is Wednesday 11 March 2026",
       "next_name": "Zachari Lytras",
       "next_time": "12:00 PM - 1:00 PM",
       "status": "BOOKED",
