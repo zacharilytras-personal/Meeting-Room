@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T01:45:03.0439555Z",
+  "generated_at": "2026-03-17T02:00:05.3384403Z",
   "rooms": {
     "accounts": {
       "current_name": "accounts@conserveitiot.com",
@@ -15,7 +15,7 @@
       "next_name": "Nothing further today (for now)",
       "next_time": "",
       "status": "BOOKED",
-      "until": "1:00 PM"
+      "until": "3:00 PM"
     }
   }
 }
