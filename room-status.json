@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T01:15:01.5709428Z",
+  "generated_at": "2026-04-14T01:30:02.0317059Z",
   "rooms": {
     "accounts": {
       "current_name": "accounts@conserveitiot.com",
@@ -10,12 +10,12 @@
       "until": "tomorrow"
     },
     "zach": {
-      "current_name": "ehusnu@daikin.com.au",
+      "current_name": "Nobody",
       "date": "Today is Tuesday 14 April 2026",
       "next_name": "Zachari Lytras",
       "next_time": "12:00 PM - 1:00 PM",
-      "status": "BOOKED",
-      "until": "11:30 AM"
+      "status": "FREE",
+      "until": "12:00 PM"
     }
   }
 }
