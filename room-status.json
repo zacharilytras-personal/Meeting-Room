@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-26T23:45:01.1327942Z",
+  "generated_at": "2026-04-27T00:00:13.3684837Z",
   "rooms": {
     "accounts": {
       "current_name": "accounts@conserveitiot.com",
-      "date": "Today is Sunday 26 April 2026",
+      "date": "Today is Monday 27 April 2026",
       "next_name": "Nothing further today (for now)",
       "next_time": "",
       "status": "BOOKED",
       "until": "tomorrow"
     },
     "zach": {
-      "current_name": "Zachari Lytras",
-      "date": "Today is Sunday 26 April 2026",
-      "next_name": "Rachel Carson",
-      "next_time": "10:00 AM - 11:00 AM",
+      "current_name": "Rachel Carson",
+      "date": "Today is Monday 27 April 2026",
+      "next_name": "Zachari Lytras",
+      "next_time": "12:00 PM - 1:00 PM",
       "status": "BOOKED",
-      "until": "10:00 AM"
+      "until": "11:00 AM"
     }
   }
 }
