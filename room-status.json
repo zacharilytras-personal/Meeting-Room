@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-01T06:45:01.4853704Z",
+  "generated_at": "2026-05-03T21:00:11.1938746Z",
   "rooms": {
     "accounts": {
-      "current_name": "accounts@conserveitiot.com",
-      "date": "Today is Friday 01 May 2026",
-      "next_name": "Nothing further today (for now)",
+      "current_name": "Nobody",
+      "date": "Today is Sunday 03 May 2026",
+      "next_name": "Free until tomorrow",
       "next_time": "",
-      "status": "BOOKED",
+      "status": "FREE",
       "until": "tomorrow"
     },
     "zach": {
-      "current_name": "Zachari Lytras",
-      "date": "Today is Friday 01 May 2026",
-      "next_name": "Nothing further today (for now)",
-      "next_time": "",
-      "status": "BOOKED",
-      "until": "5:00 PM"
+      "current_name": "Nobody",
+      "date": "Today is Sunday 03 May 2026",
+      "next_name": "Zachari Lytras",
+      "next_time": "9:30 AM - 10:00 AM",
+      "status": "FREE",
+      "until": "9:30 AM"
     }
   }
 }
