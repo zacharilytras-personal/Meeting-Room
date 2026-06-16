@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-16T04:45:02.9885672Z",
+  "generated_at": "2026-06-16T05:00:06.2653307Z",
   "rooms": {
     "accounts": {
       "current_name": "accounts@conserveitiot.com",
       "date": "Today is Tuesday 16 June 2026",
-      "next_name": "accounts@conserveitiot.com",
-      "next_time": "3:00 PM - 3:30 PM",
+      "next_name": "Nothing further today (for now)",
+      "next_time": "",
       "status": "BOOKED",
-      "until": "3:00 PM"
+      "until": "3:30 PM"
     },
     "zach": {
       "current_name": "accounts@conserveitiot.com",
       "date": "Today is Tuesday 16 June 2026",
-      "next_name": "accounts@conserveitiot.com",
-      "next_time": "3:00 PM - 3:30 PM",
+      "next_name": "Nothing further today (for now)",
+      "next_time": "",
       "status": "BOOKED",
-      "until": "3:00 PM"
+      "until": "3:30 PM"
     }
   }
 }
