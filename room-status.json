@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T02:45:02.6037451Z",
+  "generated_at": "2026-06-18T03:00:03.1734729Z",
   "rooms": {
     "accounts": {
       "current_name": "accounts@conserveitiot.com",
@@ -15,7 +15,7 @@
       "next_name": "Anthony Guiragossian",
       "next_time": "2:30 PM - 3:00 PM",
       "status": "BOOKED",
-      "until": "1:00 PM"
+      "until": "tomorrow"
     }
   }
 }
