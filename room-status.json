@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T06:45:01.7579081Z",
+  "generated_at": "2026-07-22T21:00:17.1917894Z",
   "rooms": {
     "accounts": {
       "current_name": "Nobody",
@@ -12,10 +12,10 @@
     "zach": {
       "current_name": "Nobody",
       "date": "Today is Wednesday 22 July 2026",
-      "next_name": "Free until tomorrow",
-      "next_time": "",
+      "next_name": "Zachari Lytras",
+      "next_time": "12:00 PM - 1:00 PM",
       "status": "FREE",
-      "until": "tomorrow"
+      "until": "12:00 PM"
     }
   }
 }
