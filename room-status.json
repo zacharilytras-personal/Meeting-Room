@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-23T23:45:02.1758598Z",
+  "generated_at": "2026-07-24T00:00:07.3315559Z",
   "rooms": {
     "accounts": {
-      "current_name": "Nobody",
-      "date": "Today is Thursday 23 July 2026",
-      "next_name": "Free until tomorrow",
+      "current_name": "accounts@conserveitiot.com",
+      "date": "Today is Friday 24 July 2026",
+      "next_name": "Nothing further today (for now)",
       "next_time": "",
-      "status": "FREE",
+      "status": "BOOKED",
       "until": "tomorrow"
     },
     "zach": {
-      "current_name": "Nobody",
-      "date": "Today is Thursday 23 July 2026",
+      "current_name": "Zachari Lytras",
+      "date": "Today is Friday 24 July 2026",
       "next_name": "kjoseph@daikin.com.au",
       "next_time": "1:00 PM - 3:00 PM",
-      "status": "FREE",
-      "until": "1:00 PM"
+      "status": "BOOKED",
+      "until": "tomorrow"
     }
   }
 }
