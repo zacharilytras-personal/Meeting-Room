@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T06:45:01.6875532Z",
+  "generated_at": "2026-07-27T21:00:11.8714656Z",
   "rooms": {
     "accounts": {
       "current_name": "accounts@conserveitiot.com",
@@ -10,12 +10,12 @@
       "until": "tomorrow"
     },
     "zach": {
-      "current_name": "dnair@daikin.com.au",
+      "current_name": "Nobody",
       "date": "Today is Monday 27 July 2026",
-      "next_name": "Nothing further today (for now)",
-      "next_time": "",
-      "status": "BOOKED",
-      "until": "5:00 PM"
+      "next_name": "dnair@daikin.com.au",
+      "next_time": "11:30 AM - 12:30 PM",
+      "status": "FREE",
+      "until": "11:30 AM"
     }
   }
 }
