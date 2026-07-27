@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T00:00:35.8110111Z",
+  "generated_at": "2026-07-27T00:15:02.3004807Z",
   "rooms": {
     "accounts": {
       "current_name": "accounts@conserveitiot.com",
@@ -12,10 +12,10 @@
     "zach": {
       "current_name": "Nobody",
       "date": "Today is Monday 27 July 2026",
-      "next_name": "Zachari Lytras",
-      "next_time": "12:00 PM - 1:00 PM",
+      "next_name": "dnair@daikin.com.au",
+      "next_time": "4:30 PM - 5:00 PM",
       "status": "FREE",
-      "until": "12:00 PM"
+      "until": "4:30 PM"
     }
   }
 }
