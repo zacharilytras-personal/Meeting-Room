@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-27T23:45:01.6836053Z",
+  "generated_at": "2026-07-28T00:00:07.0061162Z",
   "rooms": {
     "accounts": {
       "current_name": "accounts@conserveitiot.com",
-      "date": "Today is Monday 27 July 2026",
+      "date": "Today is Tuesday 28 July 2026",
       "next_name": "Nothing further today (for now)",
       "next_time": "",
       "status": "BOOKED",
@@ -11,7 +11,7 @@
     },
     "zach": {
       "current_name": "Nobody",
-      "date": "Today is Monday 27 July 2026",
+      "date": "Today is Tuesday 28 July 2026",
       "next_name": "dnair@daikin.com.au",
       "next_time": "11:30 AM - 12:30 PM",
       "status": "FREE",
