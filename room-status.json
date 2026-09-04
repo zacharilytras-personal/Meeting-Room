@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T04:15:02.2291206Z",
+  "generated_at": "2026-09-04T04:30:03.2819338Z",
   "rooms": {
     "accounts": {
       "current_name": "Nobody",
@@ -10,12 +10,12 @@
       "until": "tomorrow"
     },
     "zach": {
-      "current_name": "Nobody",
+      "current_name": "Rosie Michener",
       "date": "Today is Friday 04 September 2026",
-      "next_name": "Rosie Michener",
-      "next_time": "2:30 PM - 3:30 PM",
-      "status": "FREE",
-      "until": "2:30 PM"
+      "next_name": "Zachari Lytras",
+      "next_time": "3:30 PM - 5:00 PM",
+      "status": "BOOKED",
+      "until": "3:30 PM"
     }
   }
 }
