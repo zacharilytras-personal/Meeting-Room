@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-04T06:45:01.1596836Z",
+  "generated_at": "2026-09-06T21:00:12.4604728Z",
   "rooms": {
     "accounts": {
       "current_name": "Nobody",
-      "date": "Today is Friday 04 September 2026",
+      "date": "Today is Sunday 06 September 2026",
       "next_name": "Free until tomorrow",
       "next_time": "",
       "status": "FREE",
       "until": "tomorrow"
     },
     "zach": {
-      "current_name": "Zachari Lytras",
-      "date": "Today is Friday 04 September 2026",
-      "next_name": "Nothing further today (for now)",
-      "next_time": "",
-      "status": "BOOKED",
-      "until": "5:00 PM"
+      "current_name": "Nobody",
+      "date": "Today is Sunday 06 September 2026",
+      "next_name": "Anthony Guiragossian",
+      "next_time": "1:00 PM - 5:00 PM",
+      "status": "FREE",
+      "until": "1:00 PM"
     }
   }
 }
