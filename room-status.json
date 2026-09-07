@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T22:45:01.4031876Z",
+  "generated_at": "2026-09-07T23:00:09.3435476Z",
   "rooms": {
     "accounts": {
       "current_name": "Nobody",
@@ -10,12 +10,12 @@
       "until": "tomorrow"
     },
     "zach": {
-      "current_name": "Nobody",
+      "current_name": "Anthony Guiragossian",
       "date": "Today is Monday 07 September 2026",
-      "next_name": "Anthony Guiragossian",
-      "next_time": "9:00 AM - 3:00 PM",
-      "status": "FREE",
-      "until": "9:00 AM"
+      "next_name": "Zachari Lytras",
+      "next_time": "12:00 PM - 1:00 PM",
+      "status": "BOOKED",
+      "until": "3:00 PM"
     }
   }
 }
