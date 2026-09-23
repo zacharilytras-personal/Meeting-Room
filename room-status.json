@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-22T23:45:02.3257315Z",
+  "generated_at": "2026-09-23T00:00:08.9276899Z",
   "rooms": {
     "accounts": {
       "current_name": "Nobody",
-      "date": "Today is Tuesday 22 September 2026",
+      "date": "Today is Wednesday 23 September 2026",
       "next_name": "Free until tomorrow",
       "next_time": "",
       "status": "FREE",
@@ -11,7 +11,7 @@
     },
     "zach": {
       "current_name": "Zachari Lytras",
-      "date": "Today is Tuesday 22 September 2026",
+      "date": "Today is Wednesday 23 September 2026",
       "next_name": "cshah@airmaster.com.au",
       "next_time": "11:00 AM - 11:30 AM",
       "status": "BOOKED",
