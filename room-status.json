@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T04:45:01.9030887Z",
+  "generated_at": "2026-10-08T05:00:06.4845176Z",
   "rooms": {
     "accounts": {
       "current_name": "accounts@conserveitiot.com",
@@ -10,12 +10,12 @@
       "until": "tomorrow"
     },
     "zach": {
-      "current_name": "Michael Berger",
+      "current_name": "Nobody",
       "date": "Today is Thursday 08 October 2026",
-      "next_name": "Nothing further today (for now)",
+      "next_name": "Free until tomorrow",
       "next_time": "",
-      "status": "BOOKED",
-      "until": "4:00 PM"
+      "status": "FREE",
+      "until": "tomorrow"
     }
   }
 }
