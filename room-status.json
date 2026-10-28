@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:30:03.4832249Z",
+  "generated_at": "2026-10-28T23:45:01.9173197Z",
   "rooms": {
     "accounts": {
       "current_name": "Nobody",
@@ -12,10 +12,10 @@
     "zach": {
       "current_name": "Nobody",
       "date": "Today is Wednesday 28 October 2026",
-      "next_name": "Zachari Lytras",
-      "next_time": "12:00 PM - 1:00 PM",
+      "next_name": "Richard Mcelhinney",
+      "next_time": "2:30 PM - 3:00 PM",
       "status": "FREE",
-      "until": "12:00 PM"
+      "until": "2:30 PM"
     }
   }
 }
