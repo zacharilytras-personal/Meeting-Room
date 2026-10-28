@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T01:45:01.7367201Z",
+  "generated_at": "2026-10-28T02:00:06.3045770Z",
   "rooms": {
     "accounts": {
       "current_name": "Nobody",
@@ -10,12 +10,12 @@
       "until": "tomorrow"
     },
     "zach": {
-      "current_name": "Zachari Lytras",
+      "current_name": "Nobody",
       "date": "Today is Wednesday 28 October 2026",
-      "next_name": "Nothing further today (for now)",
+      "next_name": "Free until tomorrow",
       "next_time": "",
-      "status": "BOOKED",
-      "until": "1:00 PM"
+      "status": "FREE",
+      "until": "tomorrow"
     }
   }
 }
