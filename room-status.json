@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T22:45:01.6322451Z",
+  "generated_at": "2026-11-08T23:00:14.2966539Z",
   "rooms": {
     "accounts": {
       "current_name": "accounts@conserveitiot.com",
@@ -10,12 +10,12 @@
       "until": "tomorrow"
     },
     "zach": {
-      "current_name": "Zachari Lytras",
+      "current_name": "Noah Stevenson",
       "date": "Today is Sunday 08 November 2026",
-      "next_name": "Noah Stevenson",
-      "next_time": "10:00 AM - 10:25 AM",
+      "next_name": "Zachari Lytras",
+      "next_time": "12:00 PM - 1:00 PM",
       "status": "BOOKED",
-      "until": "10:00 AM"
+      "until": "10:25 AM"
     }
   }
 }
