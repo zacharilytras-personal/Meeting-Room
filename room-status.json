@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T02:45:02.3063664Z",
+  "generated_at": "2026-11-20T03:00:01.4549795Z",
   "rooms": {
     "accounts": {
       "current_name": "accounts@conserveitiot.com",
@@ -15,7 +15,7 @@
       "next_name": "Zachari Lytras",
       "next_time": "3:30 PM - 5:00 PM",
       "status": "BOOKED",
-      "until": "2:00 PM"
+      "until": "2:30 PM"
     }
   }
 }
